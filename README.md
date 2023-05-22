@@ -11,7 +11,7 @@ Reading statistical software output for created models
 
 multicollinearity using VIF and the correlation matrix
 
-the Cumulative Accuracy Profile (CAP) to assess models
+The Cumulative Accuracy Profile (CAP) to assess models
 
 Conditional Splits in SSIS
 
